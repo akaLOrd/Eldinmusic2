@@ -15,8 +15,8 @@ import math
 from async_timeout import timeout
 from functools import partial
 import functools
-from youtube_dl -4 import YoutubeDL
-import youtube_dl -4
+from youtube_dl  import YoutubeDL
+import youtube_dl 
 from io import StringIO
 import time
 import urllib.request
